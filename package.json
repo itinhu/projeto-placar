@@ -1,0 +1,16 @@
+{
+  "name": "projeto-placar",
+  "version": "1.0.0",
+  "description": "Projeto em react para placar para livestream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
